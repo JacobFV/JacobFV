@@ -9,10 +9,12 @@ I'm a machine learning engineer 👨‍🔬, roboticist 👨‍🏭, and entrepr
 [![](https://raw.githubusercontent.com/JacobFV/JacobFV/main/profile-summary-card-output/default/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/JacobFV/JacobFV/main/profile-summary-card-output/default/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/JacobFV/JacobFV/main/profile-summary-card-output/default/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/JacobFV/JacobFV/main/profile-summary-card-output/default/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/JacobFV/JacobFV/main/profile-summary-card-output/default/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-![Trends](https://api.githubtrends.io/user/svg/JacobFV/langs?time_range=one_year&include_private=True&loc_metric=changed&theme=classic)
+
+[![Trends](https://api.githubtrends.io/user/svg/JacobFV/repos?time_range=one_year&include_private=True&group=private&loc_metric=changed&theme=classic)](https://www.githubtrends.io/wrapped/JacobFV)
+[![Trends](https://api.githubtrends.io/user/svg/JacobFV/langs?time_range=one_year&include_private=True&loc_metric=changed&theme=classic)](https://www.githubtrends.io/wrapped/JacobFV)
 
 ## Focus statement
 
 The endless evolution of artificial intelligence (AI) penetrates nearly every research discipline, engineering domain, and human endeavor: expert systems automate innumerably-many business processes; large language models generate indistinguishably-plausible written content; deep generative models produce photorealistic images; reinforcement learning agents have even gone on to achieve superhuman-level performance in strategic action selection and execution. Problem domains, when formalized into data, are ripe territory for AI to conquer.
 
-Yet AI has one Problem to tackle: its own evolution... [Read more](https://jacobfv.github.io/bio/focus-statement/)
+Yet AI has one Problem to tackle: its own evolution... [Read more >>](https://jacobfv.github.io/bio/focus-statement/)
