@@ -13,6 +13,8 @@ I'm a machine learning engineer 👨‍🔬, roboticist 👨‍🏭, and entrepr
 [![Trends](https://api.githubtrends.io/user/svg/JacobFV/repos?time_range=one_year&include_private=True&group=private&loc_metric=changed&theme=classic)](https://www.githubtrends.io/wrapped/JacobFV)
 [![Trends](https://api.githubtrends.io/user/svg/JacobFV/langs?time_range=one_year&include_private=True&loc_metric=changed&theme=classic)](https://www.githubtrends.io/wrapped/JacobFV)
 
+![](github-wrapped.png)
+
 ## Focus statement
 
 The endless evolution of artificial intelligence (AI) penetrates nearly every research discipline, engineering domain, and human endeavor: expert systems automate innumerably-many business processes; large language models generate indistinguishably-plausible written content; deep generative models produce photorealistic images; reinforcement learning agents have even gone on to achieve superhuman-level performance in strategic action selection and execution. Problem domains, when formalized into data, are ripe territory for AI to conquer.
