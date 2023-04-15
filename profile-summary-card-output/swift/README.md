@@ -52,3 +52,13 @@
 ```
 
     
+
+---
+
+![](./4-productive-time.svg)
+
+```
+![](https://raw.githubusercontent.com/JacobFV/JacobFV/main/profile-summary-card-output/swift/4-productive-time.svg)
+```
+
+    
