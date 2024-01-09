@@ -8,7 +8,7 @@ on:
   push: {branches: ["master", "main"]}
 jobs:
   github-metrics:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-22.04
     permissions:
       contents: write
     steps:
@@ -23,7 +23,7 @@ jobs:
           #  - read:user     (for user related data)
           #  - read:packages (for some packages related data)
           #  - repo          (optional, if you want to include private repositories)
-          token: ${{ secrets.SUMMARY_CARDS_TOKEN }}
+          token: ${{ secrets.GITHUB_TOKEN }}
 
           # Options
           user: JacobFV
@@ -107,3 +107,4 @@ jobs:
           plugin_tweets_limit: 2
           plugin_tweets_user: JacobFValdez.user.twitter
           repositories_forks: yes
+          plugin_tweets_user: JacobFV
