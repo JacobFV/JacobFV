@@ -8,11 +8,12 @@ on:
   push: {branches: ["master", "main"]}
 jobs:
   github-metrics:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-22.04
     permissions:
+      contents: read
       contents: write
     steps:
-      - uses: lowlighter/metrics@latest
+      - uses: lowlighter/metrics@20231217.2.1
         with:
           # Your GitHub token
           # The following scopes are required:
