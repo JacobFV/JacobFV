@@ -25,30 +25,10 @@
 
 ---
 
-![](./1-repos-per-language.svg)
-
-```
-![](https://raw.githubusercontent.com/JacobFV/JacobFV/main/profile-summary-card-output/dracula/1-repos-per-language.svg)
-```
-
-    
-
----
-
 ![](./2-most-commit-language.svg)
 
 ```
 ![](https://raw.githubusercontent.com/JacobFV/JacobFV/main/profile-summary-card-output/dracula/2-most-commit-language.svg)
-```
-
-    
-
----
-
-![](./3-stats.svg)
-
-```
-![](https://raw.githubusercontent.com/JacobFV/JacobFV/main/profile-summary-card-output/dracula/3-stats.svg)
 ```
 
     
