@@ -22,3 +22,13 @@
 ```
 
     
+
+---
+
+![](./2-most-commit-language.svg)
+
+```
+![](https://raw.githubusercontent.com/JacobFV/JacobFV/main/profile-summary-card-output/date_night/2-most-commit-language.svg)
+```
+
+    
