@@ -2,9 +2,9 @@
 
 # Jacob Valdez
 
-**Training SC-WBD-00X model series at [SuperCognition Labs](https://supercognitionlabs.com) · Building Agentic + Robotics Infrastructure at [CommandAGI.com](https://commandagi.com) · San Francisco**
+**Training SC-WBD-00X model series at [SuperCognition Labs](https://supercognitionlabs.com) · Building Agentic + Robotics Infrastructure at [CommandAGI.com](https://commandagi.com)**
 
-[jvboid.dev](https://jvboid.dev) · [X / @jvboid](https://x.com/jvboid) · [LinkedIn](https://www.linkedin.com/in/jacob-f-valdez)
+[jvboid.dev](https://jvboid.dev) · [X / @jvboid](https://x.com/jvboid) · [LinkedIn](https://www.linkedin.com/in/jacob-f-valdez) · San Francisco
 
 </div>
 
