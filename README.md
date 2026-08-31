@@ -2,9 +2,7 @@
 
 # Jacob Valdez
 
-**I build agent control planes, world models, scientific systems, and cheap robot bodies—systems where models act in inspectable environments and evidence retains its provenance.**
-
-Founder, [CommandAGI](https://commandagi.com) · Founding Architect, [SuperCognition Labs](https://supercognitionlabs.com) · San Francisco
+**Training SC-WBD-00X model series at [SuperCognition Labs](https://supercognitionlabs.com) · Building Agentic + Robotics Infrastructure at [CommandAGI.com](https://commandagi.com) · San Francisco**
 
 [jvboid.dev](https://jvboid.dev) · [X / @jvboid](https://x.com/jvboid) · [LinkedIn](https://www.linkedin.com/in/jacob-f-valdez)
 
