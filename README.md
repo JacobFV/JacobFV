@@ -1,14 +1,102 @@
-[![site](https://img.shields.io/badge/site-jacobfv.github.io-blue)](https://jacobfv.github.io) [![linkedin](https://img.shields.io/badge/linkedin-jacob_f_valdez-blue)](https://www.linkedin.com/in/jacob-f-valdez) ![discord](https://img.shields.io/badge/discord-jacob_valdez_5523-black) [![email:jacob.valdez@limboid.ai](https://img.shields.io/badge/email-jacob.valdez@limboid.ai-green)](mailto:jacob.valdez@limboid.ai) [![twitter](https://img.shields.io/twitter/url?label=twitter&style=social&url=https%3A%2F%2Ftwitter.com%2FJacobFValdez)](https://twitter.com/JacobFValdez) [![Github followers](https://img.shields.io/github/followers/JacobFV?style=social)](https://github.com/JacobFV)
+<div align="center">
 
-### Jacob Valdez. Human. I build stuff.
+# jacob valdez
 
-Started programming VB6 when I was 10. Branched out over the years: [C#](https://github.com/JacobFV/Sale), [HTML/CSS/JS](https://github.com/JacobFV/Copyright-Calculator), [Arduino](https://jacobfv123.medium.com/cookie-cutter-cnc-923c68932ee6), [Python](https://github.com/JacobFV/jnumpy), [TypeScript](https://www.mitwa.ai/), [AWS](https://jacobfv.github.io/blog/2021/rtc-jupyterlab-in-the-cloud/), [Android](https://jacobfv.github.io/projects/desparados-a-eye/), etc. etc. Did lots of [engineering projects](https://jacobfvaldez.weebly.com/) too. Also, lots of independant study; glad I did Cal I-III and DiffEq when I was 17, which helped a ton with the DL math. Stumbled across [arxiv.org](https://arxiv.org) by accident in 2018 and fell in love with AI. Saw the future, and read ave. 1+ paper/day for 3 years following. Went back to school for CS in 2020; graduated Summer 2022. Spent the rest of 2022 as a SwE at Motio. Left to work on something. Would love to share. But I can't. Yet. At least not in public. But you're welcome to [reach out](https://jacobfv.github.io/bio#contact).
+**i build systems in which models can act on computers, robots, simulations, and scientific instruments — then retain inspectable evidence of what happened.**
 
-![Metrics](https://metrics.lecoq.io/JacobFV?template=classic&base.indepth=true&repositories.forks=true&activity=1&languages=1&lines=1&stars=1&habits=1&isocalendar=1&introduction=1&people=1&repositories=1&calendar=1&notable=1&gists=1&code=1&stackoverflow=1&rss=1&followup=1&starlists=1&traffic=1&tweets=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=true&base.hireable=false&base.skip=false&repositories.batch=100&repositories.forks=true&repositories.affiliations=owner&isocalendar=false&isocalendar.duration=full-year&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.details=bytes-size%2C%20percentage&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=28&lines=false&lines.sections=base&lines.repositories.limit=4&lines.history.limit=1&stars=false&stars.limit=4&habits=false&habits.from=200&habits.days=14&habits.facts=true&habits.charts=false&habits.charts.type=classic&habits.trim=false&habits.languages.limit=8&habits.languages.threshold=0%25&followup=false&followup.sections=repositories&followup.indepth=false&followup.archived=true&people=false&people.limit=24&people.identicons=false&people.identicons.hide=false&people.size=28&people.types=followers%2C%20following&people.shuffle=true&introduction=false&introduction.title=true&repositories=false&repositories.pinned=0&repositories.starred=0&repositories.random=0&repositories.order=featured%2C%20pinned%2C%20starred%2C%20random&starlists=false&starlists.limit=5&starlists.limit.repositories=0&starlists.languages=false&starlists.limit.languages=8&starlists.shuffle.repositories=true&calendar=false&calendar.limit=4&notable=false&notable.from=organization&notable.repositories=false&notable.indepth=false&notable.types=commit&notable.self=false&activity=false&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=true&activity.filter=all&traffic=false&code=false&code.lines=12&code.load=400&code.days=3&code.visibility=public&gists=false&tweets=false&tweets.user=JacobFValdez.user.twitter&tweets.attachments=false&tweets.limit=2&stackoverflow=false&stackoverflow.user=10808103&stackoverflow.sections=answers-top%2C%20questions-recent&stackoverflow.limit=2&stackoverflow.lines=4&stackoverflow.lines.snippet=2&rss=false&rss.source=https%3A%2F%2Fjacobfv.github.io%2Ffeed.xml&rss.limit=4&config.timezone=America%2FChicago)
+founder, [CommandAGI](https://commandagi.com) · founding architect, [SuperCognition Labs](https://supercognitionlabs.com) · san francisco
 
-[![](https://raw.githubusercontent.com/JacobFV/JacobFV/main/profile-summary-card-output/default/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/JacobFV/JacobFV/main/profile-summary-card-output/default/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/JacobFV/JacobFV/main/profile-summary-card-output/default/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/JacobFV/JacobFV/main/profile-summary-card-output/default/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/JacobFV/JacobFV/main/profile-summary-card-output/default/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[jvboid.dev](https://jvboid.dev) · [x / @jvboid](https://x.com/jvboid) · [linkedin](https://www.linkedin.com/in/jacob-f-valdez)
 
-[![Trends](https://api.githubtrends.io/user/svg/JacobFV/repos?time_range=one_year&include_private=True&group=private&loc_metric=changed&theme=classic)](https://www.githubtrends.io/wrapped/JacobFV)
-[![Trends](https://api.githubtrends.io/user/svg/JacobFV/langs?time_range=one_year&include_private=True&loc_metric=changed&theme=classic)](https://www.githubtrends.io/wrapped/JacobFV)
+</div>
+
+---
+
+## what i'm building
+
+### [CommandAGI](https://github.com/CommandAGI/commandagi) — branchable execution environments for agents
+
+i'm building a live agent platform around a stricter primitive than “chat with tools”: give an agent a realtime environment with actual state, let people watch and intervene, and make the state snapshotable, forkable, resumable, and billable.
+
+the current system includes:
+
+- a Next.js 15 / React 19 web + mobile PWA;
+- a Cloudflare control plane using Hono, Durable Objects, D1, and KV for per-session realtime state, compute-pool capacity, and prepaid metering;
+- keyless GCE provisioning for ephemeral Ubuntu computer-use environments;
+- a Python runtime that closes the screenshot → model → mouse/keyboard action loop inside each VM;
+- data-driven 3d simulation worlds plus bring-your-own-robot registration;
+- Python and TypeScript SDKs, an early Go SDK, and runnable SO-101 / Android / iOS robot clients;
+- WebRTC voice intervention and live observation while an agent is operating;
+- machine-checkable service contracts, escrow, and objective arbitration for agent-to-human and agent-to-agent work.
+
+the architectural invariant is that compute is finite, environment state is first-class, and every useful action should be attributable to a session, actor, machine state, and settlement path.
+
+### [WIN / B-WIN](https://github.com/JacobFV/win) — a heterogeneous interaction substrate for world models
+
+WIN is my attempt to stop flattening heterogeneous evidence into one tensor before learning begins. state variables retain their native support, coordinate frame, clock, units, uncertainty, and update law; explicitly typed interactions connect them, and a lazy resolver materializes only the paths required by a query.
+
+the substrate currently implements:
+
+- fully qualified world-state addresses over `(entity, domain, support, channel, clock)`;
+- native-clock relations, coordinate transforms, gaussian-splat supports, covers, overlap algebra, and uncertainty propagation;
+- typed interactions, pressure composition, hybrid execution, overlap reconciliation, and path-following learning;
+- source cards whose evidence roles and missingness constraints become runtime-forbidden update paths;
+- provenance-aware release gates and per-artifact licence lineage;
+- a domain-independent demo world, with a hard dependency boundary preventing `win` from importing the brain-specific realization.
+
+B-WIN instantiates that substrate for brain, body, environment, measurement, and intervention dynamics. the current code contains cortical splat banks, head electromagnetism validated against analytic solutions, fitted held deposits, and an end-to-end visual/EEG slice from eye state to predicted volts at named electrodes. results are stored beside their baselines and controls, including negative results; “implemented” and “works” are deliberately different fields.
+
+## selected 2026 systems and experiments
+
+### [recursive omnimodal video-action model](https://github.com/JacobFV/recursive-omnimodal-video-action-model)
+
+ran **26 architecture experiments / 236 training runs** across three looped video-transformer generations, then preserved the complete null results instead of retrofitting a triumph narrative.
+
+measured findings include:
+
+- recurrent looping behaved as weight-sharing regularization, not iterative reasoning, across three independent null tests;
+- three loops were optimal across the tested freeze levels and model scales;
+- a 350k-parameter frozen loop beat an 11.5m-parameter unfrozen alternative on action prediction;
+- mild progressive sharpening improved contact-detection f1 by 1.30×;
+- omnimodal capability tracked the canvas topology rather than recurrence itself.
+
+the current program grafts and ablates alternative information-routing topologies inside CogVideoX-2B, with matched parameter budgets, fixed seeds, explicit condition manifests, and per-run artifacts.
+
+### [chem-0](https://github.com/JacobFV/chem-0) — inspectable low-cost robot control
+
+built a local research platform in which an llm operates a LeRobot SO-101/SO-100 arm through the same typed tool surface used by both an Electron console and a stdio MCP server.
+
+the shared TypeScript backend owns experiment/event logging, SQLite state, blob artifacts, streamed model sessions, and voice i/o. a line-delimited JSON bridge dispatches into the Python/OpenCV/LeRobot hardware core. joint-space and Cartesian commands pass through calibrated limits, workspace checks, maximum-step bounds, interpolation, repo-local URDF kinematics, and `placo` fk/ik before reaching the Feetech bus. camera frames, pose tables, arm state, and motion commands remain inspectable through the agent interface.
+
+active follow-on work lives in [phys-0](https://github.com/JacobFV/phys-0).
+
+### [eeg acquisition chain](https://github.com/JacobFV/eeg-acquisition-chain)
+
+built an interactive, deterministic model of the physical path from cortical population current dipoles to a multiplexed adc input: volume conductor → csf → skull → scalp → contact mechanics → electrode/electrolyte interface → afe → filtering/pga → amux.
+
+the model separates attenuation from irreversible spatial mixing; derives frequency-dependent complex contact impedance from geometry, force, skin state, electrolyte, and a cpe interface; exposes finite-cmrr and impedance-imbalance leakage independently; itemizes input-referred Johnson, voltage, current, and quantization noise; and simulates settling, charge injection, channel leakage, sampling skew, quantization, and actual alias folding. every numeric input is marked literature, datasheet, fitted/derived, engineering assumption, measured, or latent.
+
+### [yt2ctx](https://github.com/JacobFV/yt2ctx) — youtube → executable visual context
+
+built one TypeScript pipeline exposed as a Next.js app, cli, http api, and MCP server. it downloads video, demuxes/transcribes audio, samples and vision-scores frames, embeds descriptions for semantic novelty, selects representative frames, and compiles the result into a style bible, Blender/Remotion shot specs, agent implementation prompts, anti-slop checks, markdown/json/jpg artifacts, and a portable zip.
+
+the web path adds HttpOnly auth, Postgres job state, Vercel Blob artifacts, and per-stage realtime progress; the cli and MCP surfaces share the same core instead of reimplementing the pipeline.
+
+## earlier systems work
+
+at **AGI, Inc.** (2025–2026), i worked across the agent runtime, mobile integration, and evaluation tooling, then owned API/SDK/partner integration surfaces spanning iOS, on-device llms, quantization, schemas, and the agent control plane. i also built VibeStartup, an agent-workflow system for taking a startup from structured intent through execution.
+
+earlier public work includes [bsbr](https://github.com/JacobFV/bsbr), a chunk-attention + block-retrieval approach to near-linear long-sequence modeling; [jnumpy](https://github.com/JacobFV/jnumpy), a neural-network stack built on NumPy; TensorCode; MPNets; Node Tree; MLN Dashboard; computer-use simulations; and physical builds going back to cnc machines, actuators, and embedded control.
+
+## what i optimize for
+
+- runtime state over screenshots of outcomes;
+- typed boundaries over ambient convention;
+- provenance, controls, and baselines over naked metrics;
+- native clocks and coordinate frames over premature homogenization;
+- simulators that can be challenged by an oracle, not simulators that grade themselves;
+- systems where humans and agents can both inspect, interrupt, fork, and resume the causal trace.
+
+most of this work is open because architectures compound faster when their interfaces, failures, and negative results are legible.
+
+<sub>last structural rewrite: 2026-08-31</sub>
